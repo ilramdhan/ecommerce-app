@@ -1,10 +1,11 @@
 <script setup>
+
 </script>
 
 <template>
-    <router-view> </router-view>
+<h1>Login Form</h1>
 </template>
 
-<style>
+<style scoped>
 
 </style>
